@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon --inspect ./task2.cjs",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "task1": "nodemon --inspect ./task31.js",
+    "task2": "nodemon --inspect ./task32.js"
+
   },
   "type": "module",
   "author": "Yuliya Hlukhatarenka",
